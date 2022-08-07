@@ -685,7 +685,7 @@ img{
   }
   .nav-items-wrapper {
     flex-direction: column;
-    position: absolute;
+    position: fixed;
     top: 0;
     right: -60%;
     height: 100vh;
